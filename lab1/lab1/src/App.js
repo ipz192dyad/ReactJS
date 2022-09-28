@@ -64,8 +64,8 @@ const cities = [
 
 const colors = {
     colors: ["red", "black", "yellow", "blue"],
-    text: "Example of a colored text",
-    text_color: "red"
+    text: "Example of a colored background",
+    background_color: "red"
 }
 
 function App() {
