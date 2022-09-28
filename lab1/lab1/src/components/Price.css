@@ -1,0 +1,7 @@
+del, .available {
+    color: grey;
+}
+.price {
+    color: red;
+    font-size: 1.5em;
+}
